@@ -1,3 +1,8 @@
+pip==25.1.1
+pygments==2.19.1
+mdurl==0.1.2
+markdown-it-py==3.0.0
+rich==14.0.0
 pygame
 whisper_timestamped
 faster_whisper
@@ -47,3 +52,4 @@ cn2an==0.5.22
 jieba==0.42.1
 gradio==3.48.0
 langid==1.1.6
+
